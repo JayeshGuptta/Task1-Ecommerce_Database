@@ -1,4 +1,3 @@
-# Ecommerce_Database
 # E-Commerce Database Design
 
 A relational database schema for an e-commerce platform, built in PostgreSQL as a college database systems project. Covers user accounts, product catalog with variants, inventory tracking, and order management.
@@ -64,11 +63,3 @@ The sample dataset includes:
 - Matching inventory records
 - 15 sample orders with order line items
 
-## Author
-
-*(Your name here)*
-*(Course name / instructor, if relevant)*
-
-## License
-
-*(Optional — add a license if you plan to make this repo public, e.g. MIT)*
